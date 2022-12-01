@@ -14,4 +14,4 @@ calendar_css: <link rel="stylesheet" href="/components/bootstrap-calendar/css/ca
 calendar_bootstrap_css: <link rel="stylesheet" href="/components/bootstrap/css/bootstrap.css">
 ---
 
-Welcome to the InfoSec Conference list, crowdsourced by InfoSec specialists to have an updated overview of interesting InfoSec conferences all around the world. If you like to add something to the list, please create a pull request on the <a href="test">GitHub Repo</a>. Thank you!
+Welcome to the InfoSec Conference list, crowdsourced by InfoSec specialists to have an updated overview of interesting InfoSec conferences worldwide aimed at a technical audience. If you like to add something to the list, please create a pull request on the <a href="test">GitHub Repo</a>. Thank you!
