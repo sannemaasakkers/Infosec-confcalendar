@@ -1,12 +1,14 @@
 Title,Start,End,Mark,URL
-Insomni’hack (Lausanne),20/3/23,24/3/23,event,https://insomnihack.ch
-Botconf (Strasbourg),11/4/23,14/4/23,event,https://www.botconf.eu
-BlueHat IL (Tel Aviv),29/3/23,30/3/23,event,https://www.microsoftrnd.co.il/bluehatil/home
-Hack in Paris (Paris),25/9/23,29/9/23,event,https://hackinparis.com
-Black Hat USA training (Las Vegas),5/8/23,10/8/23,training,https://www.blackhat.com/upcoming.html#usa
-Black Hat USA briefings (Las Vegas),9/8/23,10/8/23,event,https://www.blackhat.com/upcoming.html#usa
-DEF CON 31 (Las Vegas),10/8/23,13/8/23,event,https://defcon.org
-Black Hat Europe training (London),5/12/22,6/12/22,training,https://www.blackhat.com/eu-22/training/schedule/index.html
-Black Hat Europe briefings (London),7/12/22,8/12/22,event,https://www.blackhat.com/eu-22/briefings.html
-BruCON training (Mechelen),19/4/23,21/4/23,training,https://www.brucon.org/2023/
-BruCON training (Mechelen),25/9/23,27/9/23,training,https://www.brucon.org/2023/
+Insomni’hack (Lausanne, CH),20/3/23,24/3/23,event,https://insomnihack.ch
+Botconf (Strasbourg, FR),11/4/23,14/4/23,event,https://www.botconf.eu
+BlueHat IL (Tel Aviv, IL),29/3/23,30/3/23,event,https://www.microsoftrnd.co.il/bluehatil/home
+Hack in Paris (Paris, FR),25/9/23,29/9/23,event,https://hackinparis.com
+Black Hat USA training (Las Vegas, US),5/8/23,10/8/23,training,https://www.blackhat.com/upcoming.html#usa
+Black Hat USA briefings (Las Vegas, US),9/8/23,10/8/23,event,https://www.blackhat.com/upcoming.html#usa
+DEF CON 31 (Las Vegas, US),10/8/23,13/8/23,event,https://defcon.org
+Black Hat Europe training (London, UK),5/12/22,6/12/22,training,https://www.blackhat.com/eu-22/training/schedule/index.html
+Black Hat Europe briefings (London, UK),7/12/22,8/12/22,event,https://www.blackhat.com/eu-22/briefings.html
+BruCON training (Mechelen, BE),19/4/23,21/4/23,training,https://www.brucon.org/2023/
+BruCON training (Mechelen, BE),25/9/23,27/9/23,training,https://www.brucon.org/2023/
+TROOPERS training (Heidelberg, DE),26/6/23,27/6/23,training,https://troopers.de/troopers23/trainings/
+TROOPERS conference (Heidelberg, DE),28/6/23,29/6/23,event,https://troopers.de/troopers23/conference/
