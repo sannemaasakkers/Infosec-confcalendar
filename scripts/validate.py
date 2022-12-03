@@ -25,10 +25,20 @@ def main():
         lineno = 1
         with open(input_path, 'r') as csvfile:
             reader = csv.DictReader(csvfile, delimiter=',', fieldnames=fieldnames)
+
+            # Skip header row
+            next(reader)
+
             for row in reader:
+                lineno += 1
                 for field in fieldnames:
-                    if not row.get(field):
-                        print(f"Failed to validate line {lineno + 1}: {row}")
+                    value = row.get(field)
+                    if not value:
+                        print(f"Failed to validate line {lineno}: {row}")
+                        return 1
+
+                    if field == 'Mark' and (value not in ['training', 'event']):
+                        print(f'"Mark" column on line {lineno} requires "training" or "event", not: "{value}"')
                         return 1
     except Exception as e:
         print(f'Failed to parse/validate {args.input_path}: {e}')
