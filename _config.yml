@@ -22,9 +22,9 @@ title: Infosec Conference Calendar
 email: your-email@example.com
 description: >-
   Conference calendar for InfoSec events
-domain: sannemaasakkers.github.io
-url: https://my-site.github.io  # todo
-baseurl: /Infosec-confcalendar
+domain: https://infoseccalendar.com
+url: https://infoseccalendar.com
+baseurl: /
 
 # Build settings
 theme: minima
