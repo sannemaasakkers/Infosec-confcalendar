@@ -8,4 +8,6 @@ title: Contributors
 ---
 
 With special thanks to the following contributors:
-* [Your name here](https://github.com)
+* [Jasper](https://github.com/jasperla)
+* [Sanne](https://github.com/sannemaasakkers)
+* [Martijn](https://github.com/superbeest)
