@@ -76,7 +76,8 @@ layout: default
       var end   = columns[2] + ' {{ page.calendar_timezone_offset }}';
 
       formattedEvent['start'] = moment(start, inputDateFormat).valueOf(); // Unix milliseconds
-      formattedEvent['end']   = moment(end, inputDateFormat).valueOf();
+      var upToDay = moment(end, inputDateFormat).add(1, 'd');
+      formattedEvent['end'] = upToDay.valueOf(); // include day
 
       if (!_.isEmpty(columns[3]))
         formattedEvent['class'] = 'event-' + columns[3].toLowerCase(); // predefined CSS classname
