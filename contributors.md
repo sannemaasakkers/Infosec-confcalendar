@@ -11,3 +11,4 @@ With special thanks to the following contributors:
 * [Jasper](https://github.com/jasperla)
 * [Sanne](https://github.com/sannemaasakkers)
 * [Martijn](https://github.com/superbeest)
+* [Michael](https://github.com/michael-van-den-berg)
