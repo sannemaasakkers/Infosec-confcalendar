@@ -11,3 +11,4 @@ With special thanks to the following contributors:
 * [Jasper](https://github.com/jasperla)
 * [Sanne](https://github.com/sannemaasakkers)
 * [Martijn](https://github.com/superbeest)
+* [Kashish Kanojia](https://linkedin.com/in/cyberfascinate)
